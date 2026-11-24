@@ -1,4 +1,4 @@
-# Kinova
+# Kinova.
 
 **Medicine reminders and thoughtful family follow-up, inside WhatsApp.**
 
